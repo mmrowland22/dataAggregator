@@ -1,0 +1,52 @@
+directory: C:\Projects\Reports
+exclusions:
+  - 1 Login
+  - 2 Trainees
+  - 3 Add Trainee
+  - 4 Training Records
+  - 4.2 Add Training Record
+  - 5 Recommend Trainees to DfE
+  - 7 Add Allocations Requests
+  - 8 Allocations
+  - 9 Census
+  - 10 Profiles
+  - TOTAL
+fields:
+  - samples
+  - median
+  - 90th
+  - 95th
+  - throughput
+sorting order:
+  - 1.1 Load Login Page
+  - 1.2 Login
+  - 1.3 Select Organisation
+  - 2.1 Trainee Personal Details
+  - 3.1 Click on Add
+  - 3.2 Save and Close Trainee
+  - 4.1 Training Records List
+  - 4.2.0 Click on Add
+  - 4.2.1 Search for Trainee
+  - 4.2.4 Search for Lead School
+  - 4.2.5 Search for Subject
+  - 4.2.6 Search for Awarding Institution
+  - 4.3 Save and Close
+  - 4.4 Edit Record
+  - 4.5 Save and Close
+  - 5 Recommend Trainees to DfE
+  - 5.0 Recommend Trainees to DfE
+  - 5.1 Recommend Trainee
+  - 6 Allocations Requests
+  - 7.0 Click on Add
+  - 7.2 Save and Close
+  - 8.0 Allocations
+  - 8.1 Allocations - All my Allocations
+  - 9.1 Trainees Not Started
+  - 9.2 Forecast Late Starters
+  - 9.3 Summary Reports
+  - 9.4 Census Funding Tables
+  - 9.5 Census Sign-Off
+  - 10.1 Employment Report
+  - 10.2 Profiles Summary Report
+  - 10.3 Profiles Sign-Off
+  - 99 Logout
